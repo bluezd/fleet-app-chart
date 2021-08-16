@@ -2,7 +2,7 @@ replicaCount: 1
 image:
   repository: bluezd/cicd-hello-world
   pullPolicy: Always
-  tag: 66a28a35112ed7d473ee29c8527def7796828a14
+  tag: 68ab065cefa753f66c35c95f565a913ee6eafd2c
 imagePullSecrets: []
 nameOverride: ""
 fullnameOverride: fleet-app
